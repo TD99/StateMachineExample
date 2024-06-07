@@ -45,5 +45,4 @@ public class LightStateMachine
             Console.WriteLine("Invalid operation: " + ex.Message);
         }
     }
-
 }
