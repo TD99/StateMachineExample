@@ -14,3 +14,7 @@ This code implements a state machine for a lamp using the [Stateless](https://ww
 ## Used Libraries
 
 The main library used in this project is the [Stateless](https://www.nuget.org/packages/Stateless/) library for implementing the state machine.
+
+## Replit
+
+You can access the Replit project [here](https://replit.com/@timduerr1/StateMachineExample?v=1).
